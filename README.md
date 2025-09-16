@@ -11,7 +11,7 @@
 </div>  
 
 <h3>
-  Email me via <a href="arnabdas.official.work@gmail.com">arnabdas.official.work@gmail.com</a></br>
+  Email me <b><i>arnabdas.official.work@gmail.com</i></b></br>
   Visit my <a href="https://arnabdas1.wordpress.com/" target="_blank">portfolio</a>  
 </h3>
 
