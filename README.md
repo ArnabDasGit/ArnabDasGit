@@ -12,7 +12,8 @@
 
 <h3>
   Email me : <b><i>arnabdas.official.work@gmail.com</i></b></br>
-  Visit my <a href="https://arnabdas1.wordpress.com/" target="_blank">portfolio</a>  
+  Visit my <a href="https://arnabdas1.wordpress.com/" target="_blank">portfolio</a></br>
+  Checkout my <a href="https://snazzy-jelly-dff09c.netlify.app/" target="_blank">Github stats</a>
 </h3>
 
 ### Skills & Technologies  
