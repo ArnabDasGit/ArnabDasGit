@@ -1,7 +1,7 @@
 # Hello, I'm Arnab 👋  
 
 <div>
-  <img align="right" width="25%" src="https://github.com/user-attachments/assets/18ecd0ec-7da8-4e7c-af4b-898e56edf020" alt="developer" />
+  <img align="right" width="30%" src="https://github.com/user-attachments/assets/18ecd0ec-7da8-4e7c-af4b-898e56edf020" alt="developer" />
   <div width="65%">
     <p>
       A self-driven Web Developer from India with a strong interest in crafting clean, responsive, and user-friendly web experiences.
